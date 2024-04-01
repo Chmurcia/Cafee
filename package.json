@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^6.0.0",
+    "autoprefixer": "^10.4.19",
+    "cssnano": "^6.1.2",
+    "gulp": "^5.0.0",
+    "gulp-postcss": "^10.0.0",
+    "gulp-sass": "^5.1.0",
+    "postcss-scss": "^4.0.9",
+    "purgecss": "^6.0.0",
+    "sass": "^1.72.0"
+  }
+}
